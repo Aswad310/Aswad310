@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aswad310
-- 👀 I’m interested in full Stack Developing.
+- 👀 I’m interested in Full Stack Developing.
 - 🌱 I’m currently learning JAVA and SQL.
 <!---
 Aswad310/Aswad310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
