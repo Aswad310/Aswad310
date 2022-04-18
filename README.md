@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aswad310
-- 👀 I’m interested in MERN Stack Developing.
+- 👀 I’m interested in Web Developing.
 - �  node, express, mongodb
 <!---
 Aswad310/Aswad310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
