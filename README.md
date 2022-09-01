@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aswad Ali</h1>
-<h3 align="center">I'm python Developer, but also write PHP, JavaScript and some other stuff.</h3>
+<h3 align="center">I'm a Software Engineer, I write PHP, Python, and some other stuff.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswad310&label=Profile%20views&color=0e75b6&style=flat" alt="aswad310" /> </p>
 
